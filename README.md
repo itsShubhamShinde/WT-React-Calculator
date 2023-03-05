@@ -1,6 +1,6 @@
 ## Hosted Link :
 
-### Details:
+### Project Details:
    I can design a Calculator using react and give the functionality using useState and Function with the help of events.
 
 ### Functionality Use:
