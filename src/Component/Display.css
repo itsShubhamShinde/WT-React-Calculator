@@ -1,0 +1,21 @@
+.Display{
+    /* border: 2px solid red; */
+    height: 20%;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+}
+.Display h3 ,p{
+    /* border: 2px solid gray; */
+    height: 45%;
+    width: 90%;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 20px;
+    /* border-radius: .7rem; */
+}

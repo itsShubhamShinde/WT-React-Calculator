@@ -1,0 +1,78 @@
+.Button{
+    /* border: 2px solid red; */
+    height: 80%;
+    width: 99%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1px;
+}
+.buttonUpperDiv{
+    /* border: 1px solid blue; */
+    height: 60%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.Clearbut{
+    /* border: 1px solid green; */
+    height: 33.33%;
+    width: 50%;
+    background-color: #ac3939;
+    color: white;
+    font-weight: bold;
+
+}
+.Symbolbut{
+    /* border: 1px solid green; */
+    height: 33.33%;
+    width: 25%;
+    background-color: #666666;
+    color: white;
+    font-weight: bold;
+
+}
+.Numberbut{
+    /* border: 1px solid green; */
+    height: 33.33%;
+    width: 25%;
+    background-color: #4d4d4d;
+    color: white;
+    font-weight: bold;
+}
+.buttonLowerDiv{
+    /* border: 1px solid blue; */
+    height: 40%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.LowerDivLeft{
+    /* border: 2px solid red; */
+    height: 100%;
+    width: 75%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.LowerDivRight{
+    /* border: 2px solid red; */
+    height: 100%;
+    width: 25%;
+}
+
+.Numberbut:hover {
+    color: black;
+    outline: .01rem solid grey;
+    z-index: 3;
+  }
+.Symbolbut:hover {
+    color: black;
+    outline: 0.01rem solid grey;
+    z-index: 3;
+  }
+.Clearbut:hover {
+    color: black;
+    outline: 0.01rem solid grey;
+    z-index: 3;
+  }
