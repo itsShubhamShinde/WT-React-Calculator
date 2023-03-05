@@ -1,6 +1,6 @@
-## Hosted Link :
+## Hosted Link : https://wt-react-calculator.vercel.app/
 
-### Details:
+### Project Details:
    I can design a Calculator using react and give the functionality using useState and Function with the help of events.
 
 ### Functionality Use:
