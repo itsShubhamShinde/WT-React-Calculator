@@ -23,8 +23,8 @@
 }
 @media screen and (min-width:380px) and (max-width: 480px) {
   .AppDiv{
-    width: 50%;
-    height: 60%;
+    width: 70%;
+    height: 80%;
   }
 }
 @media screen and (min-width:481px) and (max-width: 775px) {
